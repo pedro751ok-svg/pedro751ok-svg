@@ -54,15 +54,15 @@ public class Pedro {
 
 ### ⚙️ Backend
 
-<img src="https://skillicons.dev/icons?i=spring,flask,maven" />
+<img src="https://skillicons.dev/icons?i=spring,flask" />
 
 ### 🗄️ Banco de dados
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql" />
+<img src="https://skillicons.dev/icons?i=postgres" />
 
 ### 🐧 Ferramentas e infraestrutura
 
-<img src="https://skillicons.dev/icons?i=linux,docker,git,github,idea,vscode" />
+<img src="https://skillicons.dev/icons?i=ubuntu,docker,git,github,idea,vscode" />
 
 </div>
 
