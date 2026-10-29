@@ -1,105 +1,112 @@
-👋 Olá, eu sou o Pedro!
+<div align="center">👨‍💻 Pedro Neris
 
-Desenvolvedor Backend em formação | Java • Spring Boot • SQL
+"Backend Developer in Progress" ☕
 
-Sou estudante de Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento Backend e construção de sistemas orientados a regras de negócio.
+Java • Spring Boot • Python • SQL • Linux
 
-Gosto de entender como os sistemas funcionam por trás das aplicações, desde a modelagem de dados até a implementação de regras, segurança e organização da arquitetura.
+""GitHub" (https://img.shields.io/badge/GitHub-pedro751ok--svg-181717?style=for-the-badge&logo=github)" (https://github.com/pedro751ok-svg)
+""Java" (https://img.shields.io/badge/Java-Backend-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)" (https://www.java.com/)
+""Spring" (https://img.shields.io/badge/Spring_Boot-Backend-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)" (https://spring.io/projects/spring-boot)
 
-Atualmente, desenvolvo projetos próprios para transformar conhecimento teórico em experiência prática e evoluir minhas habilidades de engenharia de software.
+</div>---
 
----
+🧑‍💻 Sobre mim
 
-🛠️ Tecnologias e ferramentas
+public class Pedro {
 
-Backend
+    String area = "Backend Development";
+    String[] linguagens = {"Java", "Python", "SQL"};
+    String[] interesses = {
+        "Arquitetura de Software",
+        "Regras de Negócio",
+        "Segurança de Aplicações",
+        "Banco de Dados"
+    };
 
-- Java
-- Spring Boot
-- Spring Data JPA
-- Hibernate
-- Python
-- Flask
+    String objetivo = "Construir sistemas robustos e seguros";
+}
 
-Banco de dados
+🎓 Estudante de Análise e Desenvolvimento de Sistemas.
 
-- PostgreSQL
-- SQL
-- Modelagem de dados e normalização
+⚙️ Foco em desenvolvimento Backend e regras de negócio.
 
-Ferramentas e infraestrutura
+🏗️ Desenvolvendo projetos próprios com Java, Spring Boot e Python.
 
-- Git e GitHub
-- Linux (Ubuntu)
-- Docker
-- Maven
+🔐 Estudando segurança, integridade de dados e arquitetura de software.
 
-Conceitos de engenharia de software
-
-- APIs REST
-- Arquitetura em camadas
-- DTOs e separação de responsabilidades
-- Padrões de projeto
-- Autenticação JWT e controle de acesso
-- Testes automatizados
+🐧 Explorando Linux, Docker e infraestrutura.
 
 ---
 
-🚀 Projetos
+🚀 Tech Stack
+
+<div align="center">💻 Linguagens
+
+<img src="https://skillicons.dev/icons?i=java,python,js,html,css" />⚙️ Backend
+
+<img src="https://skillicons.dev/icons?i=spring,flask,maven" />🗄️ Banco de dados
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql" />🐧 Ferramentas e infraestrutura
+
+<img src="https://skillicons.dev/icons?i=linux,docker,git,github,idea,vscode" /></div>---
+
+📌 Projetos em destaque
 
 🏢 Sistema ERP — Java & Spring Boot
 
-Projeto de gestão empresarial com foco na organização de módulos e implementação de regras de negócio.
+Sistema de gestão empresarial desenvolvido para praticar arquitetura de software e regras de negócio.
 
-- Módulos voltados para RH, financeiro, estoque e administração.
-- Arquitetura em camadas e separação de responsabilidades.
-- Persistência com JPA e Hibernate.
-- DTOs e modelagem de dados relacionais.
-- Estudos de segurança, integridade e consistência dos dados.
+- Módulos de RH, financeiro, estoque e administração.
+- Arquitetura em camadas e DTOs.
+- Persistência com Spring Data JPA e Hibernate.
+- Modelagem de dados relacionais.
+- Estudos de consistência, concorrência e segurança.
 
-Tecnologias: Java, Spring Boot, Spring Data JPA e banco de dados relacional.
+🔗 "Acessar repositório" (https://github.com/pedro751ok-svg/ProjetoERP_java_springboot-jpa-dto-)
 
 📅 Sistema de Férias e Afastamentos — Python
 
 Aplicação backend para gerenciamento de férias, atestados e afastamentos.
 
-- API desenvolvida com Flask.
-- Persistência de dados com SQLAlchemy.
-- Autenticação baseada em JWT.
+- API com Flask.
+- SQLAlchemy e PostgreSQL.
+- Autenticação JWT.
 - Testes automatizados com Pytest.
-- Integração com PostgreSQL.
 
-Tecnologias: Python, Flask, SQLAlchemy, PostgreSQL, JWT e Pytest.
+🔗 "Acessar repositório" (https://github.com/pedro751ok-svg/gerenciador_de_ferias_atestados_afastamentos)
 
 🔎 Automação de Busca de Vagas
 
-Projeto de automação com Python voltado a facilitar tarefas relacionadas à busca de oportunidades profissionais.
+Projeto em Python voltado à automação de tarefas relacionadas à busca de oportunidades.
 
-Tecnologia principal: Python.
+🔗 "Acessar repositório" (https://github.com/pedro751ok-svg/automacao_busca_de_vagas)
 
 ---
 
-📚 Atualmente estudando
+📊 GitHub Analytics
+
+<div align="center"><img height="165" src="https://github-readme-stats.vercel.app/api?username=pedro751ok-svg&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" /><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro751ok-svg&layout=compact&theme=tokyonight&hide_border=true" /></div><div align="center"><img src="https://streak-stats.demolab.com?user=pedro751ok-svg&theme=tokyonight&hide_border=true" /></div>---
+
+🧠 Atualmente estudando
 
 - Arquitetura de software e padrões de projeto.
 - Segurança de aplicações e controle de acesso.
-- Concorrência e consistência de dados.
+- Concorrência e integridade de dados.
 - SQL e otimização de consultas.
 - Linux, Docker e fundamentos de Cloud.
 
 ---
 
-🎯 Objetivo profissional
+🎯 Objetivo
 
-Busco uma oportunidade na área de tecnologia para aplicar meus conhecimentos, contribuir com soluções reais e evoluir profissionalmente em desenvolvimento Backend, sistemas e infraestrutura.
-
----
-
-📫 Vamos nos conectar?
-
-- GitHub: "@pedro751ok-svg" (https://github.com/pedro751ok-svg)
-- LinkedIn: Adicione aqui seu perfil.
+Construir soluções backend bem estruturadas, seguras e confiáveis, evoluindo continuamente em engenharia de software.
 
 ---
 
-Aprendendo, construindo projetos e evoluindo um passo de cada vez.
+<div align="center">🤝 Vamos nos conectar?
+
+""GitHub" (https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)" (https://github.com/pedro751ok-svg)
+
+"Building systems, solving problems, learning every day." ☕
+
+</div>
